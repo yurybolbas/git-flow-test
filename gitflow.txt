@@ -3,3 +3,4 @@ testfeature
 myfeature2
 release
 hotfix 001
+new text1
