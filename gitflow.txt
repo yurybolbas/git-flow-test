@@ -1,1 +1,4 @@
 ﻿master
+testfeature
+myfeature2
+release
